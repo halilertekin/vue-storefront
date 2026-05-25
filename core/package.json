@@ -10,7 +10,7 @@
   "dependencies": {
     "bodybuilder": "2.2.13",
     "config": "^1.30.0",
-    "express": "^4.14.0",
+    "express": "^5.2.1",
     "lean-he": "^2.0.0",
     "localforage": "^1.7.2",
     "lodash-es": "^4.17.10",
@@ -18,7 +18,7 @@
     "query-string": "^6.2.0",
     "redis-tag-cache": "^1.2.1",
     "remove-accents": "^0.4.2",
-    "uuid": "^3.3.2",
+    "uuid": "^14.0.0",
     "vue": "^2.6.6",
     "vue-carousel": "^0.6.9",
     "vue-i18n": "^8.0.0",
@@ -82,7 +82,7 @@
     "vue-template-compiler": "^2.6.6",
     "webpack": "^4.25.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-middleware": "^3.4.0",
+    "webpack-dev-middleware": "^8.0.3",
     "webpack-hot-middleware": "^2.24.3",
     "webpack-merge": "^4.1.4"
   },
